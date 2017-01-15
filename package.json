@@ -1,0 +1,12 @@
+{
+  "name": "blog-talks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "surge -p . -d bcc-talks.surge.sh"
+  },
+  "keywords": [],
+  "author": "Ben Clinkinbeard <ben.clinkinbeard@gmail.com> (http://benclinkinbeard.com/)",
+  "license": "ISC"
+}
